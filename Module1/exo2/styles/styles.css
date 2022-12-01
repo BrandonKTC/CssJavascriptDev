@@ -1,0 +1,21 @@
+body {
+	background: #222;
+	padding: 32px;
+	width: 500px;
+	text-align: center;
+	margin: 50px auto;
+}
+
+.card {
+	background-color: #fff;
+	padding: 32px;
+	border-radius: 8px;
+}
+
+.stretched-out {
+	margin: 0 -32px;
+}
+img {
+	display: block;
+	width: 100%;
+}
